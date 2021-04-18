@@ -1,7 +1,5 @@
 package com.javastart.hellospring.controller.dto;
 
-import com.javastart.hellospring.controller.AccountController;
-
 public class AccountRequestDTO {
 
     private String name;
